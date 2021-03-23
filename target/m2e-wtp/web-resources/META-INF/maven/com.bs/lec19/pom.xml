@@ -3,13 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.bs</groupId>
-<<<<<<< HEAD
-	<artifactId>lec20</artifactId>
-	<name>lec20Pjt001</name>
-=======
 	<artifactId>lec19</artifactId>
 	<name>lec19Pjt001</name>
->>>>>>> refs/remotes/origin_github/master
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
